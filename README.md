@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/smoke-from-her-goodbye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Smoke from Her Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/smoke-from-her-goodbye/) |
+| **Get License** | [Official Music Licensing for Smoke from Her Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/smoke-from-her-goodbye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your shadow dancing on my dashboard light
+> I can still taste your whiskey on the night
+> You left a little heaven in the air
+> I'm breathing in the fire you left right there
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
